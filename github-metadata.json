@@ -1,0 +1,15 @@
+{
+  "name": "protocol-ui-fastlane",
+  "description": "Fast UI handoff skill for turning confirmed protocol specs into builder-ready screen contracts, wireframes, and revision briefs.",
+  "topics": [
+    "ai-builder",
+    "design-handoff",
+    "figma",
+    "frontend",
+    "protocol",
+    "ui",
+    "ux",
+    "wireframe"
+  ]
+}
+

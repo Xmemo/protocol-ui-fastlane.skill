@@ -1,0 +1,4 @@
+interface:
+  display_name: "Protocol UI Fastlane"
+  short_description: "协议确认后，快速生成可交给 AI builder 的 UI 合同与修订包"
+  default_prompt: "Use $protocol-ui-fastlane to turn the confirmed protocol into a fast AI-builder-friendly UI pack, then prepare review and revision briefs."
